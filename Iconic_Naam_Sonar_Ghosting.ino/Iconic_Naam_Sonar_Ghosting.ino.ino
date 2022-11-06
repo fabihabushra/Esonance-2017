@@ -1,6 +1,3 @@
-/*
-بسم الله الرحمن الرحيم
-*/
 #define sensorNum 8          //always even
 
 #define maxSpeed 225//180  //180 //200
